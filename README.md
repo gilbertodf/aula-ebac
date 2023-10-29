@@ -1,2 +1,2 @@
 # aula-ebac
-teste project ebac
+teste-project-Ebac
